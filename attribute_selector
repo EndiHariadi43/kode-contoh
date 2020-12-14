@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- CSS -->
+<style>
+a [ target ] {
+  background-color : yellow;
+}
+</style>
+<!-- CSS -->
+</head>
+<body>
+
+<p Links with the "target" attribute receive a yellow background:></p>
+
+<a href="https://www.google.com">Google Internasional<>/a<
+
+<!-- latar belakang berwarna kuning -->
+< a href="https://www.google.co.id" target="_blank"<>Google Indonesia></a>
+< a href="https://www.google.org" target="_top"<>Google Organisasi></a>
+<!-- latar belakang berwarna kuning -->
+
+</body>
+</html>
